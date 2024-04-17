@@ -1,6 +1,6 @@
 # Simple-Number-Guessing-Game
 This code creates a rudimentary number guessing game, in which the player attempts to guess a randomly generated target number.
-Import statement (commented out): 
+Import statement (commented out):    
 import random. This line is commented out. It implies that the random module will be used to generate a random number, although it is not in the present version of the code.
 
 To generate a random target number:
