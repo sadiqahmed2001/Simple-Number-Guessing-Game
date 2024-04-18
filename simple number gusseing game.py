@@ -1,7 +1,7 @@
 import random
 
 target=random.randint(1,100)
-
+   
 while True:  
     userchoice=int(input("guess the target or quite(00): "))
     if (userchoice==00):
